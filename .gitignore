@@ -1,0 +1,7 @@
+**/.dart_tool
+**/build
+**/.packages
+**/.flutter-plugins-dependencies
+**/.flutter-plugins
+**/.idea/libraries/Flutter_Plugins.xml
+.idea/libraries/Flutter_Plugins.xml
